@@ -8,16 +8,17 @@ This is a simple Streamlit web application that utilizes the Hugging Face Transf
 
    ```bash
    git clone https://github.com/your-username/your-repository.git
-
-   Install the required dependencies:
-   pip install -r requirements.txt
    
-   Run the Streamlit app:
+2. Install the required dependencies:
+   
+    ```bash
+   pip install -r requirements.txt
+
+3. Run the Streamlit app:
+4. 
+   ```bash
    streamlit run app.py
 
- 
-
-   pip install -r requirements.txt
 
 # Dependencies
 **Streamlit:** The app framework for building interactive web applications.
@@ -30,4 +31,4 @@ The app allows users to input an article in the provided text area. Upon clickin
 
 ## Text Summarizer App
 
-![Text Summarizer App]([https://github.com/mzaid295/Text-Summarization-Using-Hugging-Face-and-Streamlit/blob/f001581b3820e1afdcbec8ff831ec782cf8b87f2/Final%20Output.JPG])
+![Text Summarizer App](https://github.com/mzaid295/Text-Summarization-Using-Hugging-Face-and-Streamlit/blob/f001581b3820e1afdcbec8ff831ec782cf8b87f2/Final%20Output.JPG)
