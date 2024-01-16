@@ -7,8 +7,8 @@ This is a simple Streamlit web application that utilizes the Hugging Face Transf
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/your-username/your-repository.git](https://github.com/mzaid295/Text-Summarization-Using-Hugging-Face-and-Streamlit.git)
-
+   git clone https://github.com/your-username/your-repository.git
+ 
    ```bash
    pip install -r requirements.txt
 
