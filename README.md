@@ -15,7 +15,7 @@ This is a simple Streamlit web application that utilizes the Hugging Face Transf
    pip install -r requirements.txt
 
 3. Run the Streamlit app:
-4. 
+   
    ```bash
    streamlit run app.py
 
