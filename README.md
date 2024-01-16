@@ -8,12 +8,20 @@ This is a simple Streamlit web application that utilizes the Hugging Face Transf
 
    ```bash
    git clone https://github.com/your-username/your-repository.git
+
+   Install the required dependencies:
+   pip install -r requirements.txt
+   
+   Run the Streamlit app:
+   streamlit run app.py
+
  
-   ```bash
+
    pip install -r requirements.txt
 
 # Dependencies
 **Streamlit:** The app framework for building interactive web applications.
+
 **Transformers:** Hugging Face's library for working with state-of-the-art models in Natural Language Processing.
 
 # How it Works
@@ -22,4 +30,4 @@ The app allows users to input an article in the provided text area. Upon clickin
 
 ## Text Summarizer App
 
-![Text Summarizer App]([https://github.com/mzaid295/KYC-API-for-Pakistani-CNIC-with-Advanced-Card-Processing/blob/main/Detected%20Face.JPG])
+![Text Summarizer App]([https://github.com/mzaid295/Text-Summarization-Using-Hugging-Face-and-Streamlit/blob/f001581b3820e1afdcbec8ff831ec782cf8b87f2/Final%20Output.JPG])
